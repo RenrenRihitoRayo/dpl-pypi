@@ -2,7 +2,7 @@
 name = "duprol"  # Must be unique across PyPI
 version = "1.4.8a"
 description = "My Dumb Programming Language"
-authors = [{ name = "Your Name", email = "darrenchasepapa@gmail.com" }]
+authors = [{ name = "Darren Papa", email = "darrenchasepapa@gmail.com" }]
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.11"
@@ -10,3 +10,9 @@ requires-python = ">=3.11"
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
+
+urls = {
+  "Homepage" = "https://github.com/renrenrihitorayo/dpl-pypi",
+  "Repository" = "https://github.com/renrenrihitorayo/dpl-pypi",
+  "Issues" = "https://github.com/renrenrihitorayo/dpl-pypi/issues"
+}
