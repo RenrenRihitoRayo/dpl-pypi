@@ -1,3 +1,4 @@
+README.txt
 pyproject.toml
 dpl/dpl.py
 dpl/dpl_module.py
